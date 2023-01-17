@@ -67,3 +67,11 @@ const valorCarta = (carta) => {
 
 const valor = valorCarta(pedirCarta());
 console.log({valor});
+
+
+// document.querySelector('small').innerText = '<b>Hola mundo</b>'
+// document.getElementById('computadora-cartas')
+// document.querySelector('.carta')
+// document.querySelector('#computadora-cartas')
+// document.querySelectorAll('.carta')
+// document.querySelector('header').innerText = 'JHON'
